@@ -1,5 +1,5 @@
 ### Hi there 👋
-BackEnd Developer 로 일하고 있습니다.
+Backend Application Developer 로 일하고 있습니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmome&show_icons=true&theme=highcontrast)
 
