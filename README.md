@@ -2,6 +2,7 @@
 Backend Application Developer 로 일하고 있습니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmome&show_icons=true&theme=highcontrast)
+<br></br><br></br>
 
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
@@ -23,4 +24,7 @@ Backend Application Developer 로 일하고 있습니다.
  - css : sass
  - build : Vue CLI, node, npm
 
-## Gmail : effortsof@gamail.com
+<br><br/>
+## Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:effortsof@gmail.com)
