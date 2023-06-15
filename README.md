@@ -1,7 +1,5 @@
 ### Hi there 👋
 - Backend Application Developer 로 일하고 있습니다.
-- 확장성과 유지보수성이 높은 시스템을 만들고자 노력합니다.
-<br>
 
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
@@ -27,3 +25,4 @@
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:effortsof@gmail.com)
+<a href="https://www.notion.so/e5acca9d4062498ead6abd7ce32a08f9"><img src="https://img.shields.io/badge/-Notion-lightgrey"/></a>
