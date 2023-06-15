@@ -1,5 +1,7 @@
 ### Hi there 👋
-Backend Application Developer 로 일하고 있습니다.
+- Backend Application Developer 로 일하고 있습니다.
+- 확장성과 유지보수성이 높은 시스템을 만들고자 노력합니다.
+<br>
 
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
