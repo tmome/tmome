@@ -3,10 +3,20 @@
 
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
- - Language : Open JDK 11 
- - Framework : SpringBoot, Spring
- - ORM : JPA, hibernate
- - build : Gradle
+- Language
+    - Java(Open JDK 18)
+    - Kotlin
+- Framework
+    - Spring Boot, Spring, eGovFrame
+- ORM
+    - Spring Data JPA, Hibernate
+- Database
+    - Oracle, Mysql, Redis, Elasticsearch
+- Event-Driven Architecture
+    - Kafka
+- Build
+    - Gradle
+   
 
 ## Infra 
  - Server : AWS EC2, tomcat9, nginx
