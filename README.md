@@ -19,17 +19,17 @@
    
 
 ## Infra 
- - Server : AWS EC2, tomcat9, nginx
- - DB : Mysql
- - CI/CD : Jenkins
- - 형상관리 : gitlab
- - 모니터링 : Slack Error 알람, pinpoint, Kibana
+- Server
+    - AWS EC2, kubernetes
+- CI/CD
+    - Jenkins, Github Action
+- 형상관리
+    - Git
+- 모니터링
+    - Slack Error, Pinpoint, Kibana, Datadog, Loki
 
-## Front end 
- - Language : javascript
- - Framework : vue
- - css : sass
- - build : Vue CLI, node, npm
+## ETC.
+- Docker, IntelliJ, Jira, Slack
 
 <br><br/>
 ## Contact
