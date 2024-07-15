@@ -4,10 +4,11 @@
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
 - Language
-    - Java(Open JDK 18)
+    - Java
     - Kotlin
+    - Python
 - Framework
-    - Spring Boot, Spring, eGovFrame
+    - Spring Boot, Spring, Django
 - ORM
     - Spring Data JPA, Hibernate
 - Database
