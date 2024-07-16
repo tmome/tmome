@@ -23,7 +23,7 @@
 - Server
     - AWS EC2, kubernetes
 - CI/CD
-    - Jenkins, Github Action
+    - Jenkins, Github Action, ArgoCD
 - 형상관리
     - Git
 - 모니터링
