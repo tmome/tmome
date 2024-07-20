@@ -32,7 +32,6 @@
 ## ETC.
 - Docker, IntelliJ, Jira, Slack
 
-<br><br/>
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:effortsof@gmail.com)
