@@ -30,7 +30,7 @@
     - Slack Error, Pinpoint, Kibana, Datadog, Loki
 
 ## ETC.
-- Docker, IntelliJ, Jira, Slack
+- Docker, Jira, Slack
 
 ## Contact
 
