@@ -9,7 +9,7 @@
     - Python
 - Framework
     - Spring Boot, Spring, Django
-- ORM
+- ORM 
     - Spring Data JPA, Hibernate
 - Database
     - Oracle, Mysql, Redis, Elasticsearch
