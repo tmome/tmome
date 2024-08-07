@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Backend Application Developer 로 일하고 있습니다.
+- Backend Application Developer 로 일하고 있습니다. 
 
 ### <보유중인 스킬 및 업무 경험 스킬>
 ## Backend
